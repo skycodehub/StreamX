@@ -11,7 +11,7 @@
   <img src="https://github.com/skycodehub/StreamX/blob/3881a4b86158555b8a377d860806f9da75d58b4f/Screenshot_2025-05-10-11-54-09-68_a20e0c85eb8d4ffc9148e611982d4ae6.jpg" width="30%" />
   <img src="https://github.com/skycodehub/StreamX/blob/bb42e8848e46cc4739d9e271a744396569652193/Screenshot_2025-05-10-11-54-41-97_a20e0c85eb8d4ffc9148e611982d4ae6.jpg" width="30%" />
 
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="30%" />
+  <img src="https://github.com/skycodehub/StreamX/blob/75c2d3d74785a6dc253ce52ebd215a427369c488/Screenshot_2025-05-10-11-54-17-46_a20e0c85eb8d4ffc9148e611982d4ae6.jpg" width="30%" />
 </p>
 
 ## Features
