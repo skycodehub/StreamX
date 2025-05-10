@@ -19,19 +19,11 @@
 ## Features
 
 - Play (almost) any song or video from YouTube Music
-- Play music from your device
-- Play songs in the background
-- Cache song for offline playback
-- Search for songs, albums, artists videos and playlists
-- Discover new songs by mood/genre
-- Import playlists from YouTube
-- Fetch, display and edit songs lyrics or synchronized lyrics
-- Manage your playlists locally or synchronize with the cloud
-- Highly customizable (dynamic theme, Material You, ...)
-- Normalize audio for the perfect listening experience
-- Listen from your car using Android Auto
-- Open YouTube/YouTube Music links (`watch`, `playlist`, `channel`, etc.) with ViTune
-- Ridiculously lightweight APK
+- Here you can watch all latest movie for free
+- All webseries are available
+- All anime are available
+- All OTT platform in one app
+- watch and Download movies 
 
 ## Installation
 
