@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="30%" />
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="30%" />
+  <img src="[./fastlane/metadata/android/en-US/images/phoneScreenshots/2.png](https://github.com/skycodehub/StreamX/blob/3881a4b86158555b8a377d860806f9da75d58b4f/Screenshot_2025-05-10-11-54-09-68_a20e0c85eb8d4ffc9148e611982d4ae6.jpg)" width="30%" />
   <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="30%" />
 
   <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="30%" />
