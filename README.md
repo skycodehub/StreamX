@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <img src="https://github.com/skycodehub/StreamX/blob/f7bdedd7dfb72d53624a02ce1a91ae43b2636e92/Picsart_25-03-13_19-33-03-831.jpg" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>StreamX </h1>
     <p>StreamX wher you can watch all new movies</p>
 </div>
