@@ -38,3 +38,7 @@ align="center">](soon)
 alt="Get it on Obtainium"
 height="54"
 align="center">](soon)
+
+## Disclamer
+
+StreamX does not host any movies or content. It provides access to streaming links from third-party sources. We are not responsible for any content or issues related to third-party services.
