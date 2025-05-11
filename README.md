@@ -16,7 +16,6 @@
 
 ## Features
 
-- Play (almost) any song or video from YouTube Music
 - Here you can watch all latest movie for free
 - All webseries are available
 - All anime are available
